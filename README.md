@@ -1,3 +1,12 @@
+# Project name
+Best Care Hospital Project
+
+# Project Overview
+This React based project is created for a demo hospital website. Bootstrap and css is used. Context API and useAuth is used. It is deployed in firebase.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
