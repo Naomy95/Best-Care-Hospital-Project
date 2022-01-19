@@ -1,0 +1,21 @@
+[
+    {
+        "name" : "Cardiology", "id":1, "img":"https://image.freepik.com/free-vector/hypertension-abstract-concept_335657-3220.jpg","p":"Ache in heart? Do not delay and take our service"
+    },
+    {
+        "name":"Pediatric" , "id":2, "img":"https://i.ibb.co/qNXd8CK/pediatric.jpg","p":"We believe in happy and healthy babies are the pillars of future! Come to us for your child's care"
+    },
+    {
+        "name":"Neorology" , "id":3, "img":"https://i.ibb.co/C6LnCQ0/neurology.jpg","p":"We are providing advanced and comprehensive Neurology & Neurosurgery facilities under one roof"
+    },
+    {
+        "name":"Gynecology" , "id":4, "img":"https://i.ibb.co/yF98SCS/4372551.jpg","p":"From routine care to high risk situations, we try our best for our women"
+    },
+    {
+        "name":"Dental" , "id":5, "img":"https://image.freepik.com/free-vector/flat-dental-care-concept-illustration_23-2148982240.jpg" ,"p":"Toothache? Don't worry, our Dental department is here"
+    },
+    {
+        "name":"Otorhinolaryngology" , "id":6, "img":"https://i.ibb.co/k2xG94F/otorhinolaryngology.jpg","p":"Our ENT department is one of the best in Bangladesh because we give our best care!!"
+    }
+
+]

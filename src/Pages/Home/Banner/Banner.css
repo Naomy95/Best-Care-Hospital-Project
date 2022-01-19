@@ -1,0 +1,21 @@
+.image img{
+    height: 600px;
+    
+    width: 100%;
+    margin: auto;
+}
+
+
+@media only screen and (max-width:688px) {
+   .image img{
+       height: 300px;
+   }
+  
+}
+
+@media only screen and (min-width:688px) and (max-width:991px) {
+    .image img{
+        height: 500px;
+    }
+   
+ }

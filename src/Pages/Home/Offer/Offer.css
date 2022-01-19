@@ -1,0 +1,37 @@
+.offer{
+    /* padding: 10px; */
+    height:330px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    margin-left: 20px;
+    
+    } 
+
+    .offer img{
+        width:50%;
+        height: 100px;
+        
+    }
+
+    @media only screen and (max-width:688px) {
+        .offer{
+            margin: auto;
+            margin-top: 10px;
+          
+        }
+      
+    }
+    
+    @media only screen and (min-width:688px) and (max-width:991px) {
+        
+        .offer{
+            margin: auto;
+            margin-top: 10px;
+            margin-left: 10px;
+          
+        }
+      
+        
+    }
